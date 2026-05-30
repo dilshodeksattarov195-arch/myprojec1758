@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsuerify",
+        "uuid": 9342012,
+        "checksum": "p7km2a"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
